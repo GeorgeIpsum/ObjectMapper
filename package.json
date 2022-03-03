@@ -1,0 +1,14 @@
+{
+  "name": "ObjectMapper",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:GeorgeIpsum/ObjectMapper.git",
+  "author": "Ibrahim <georgeipsum@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
